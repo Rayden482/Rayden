@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **parag.19b111024@abes.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19EdGbHj7A5x7elZk8uzXk1yngUD-ubWU/view?usp=drivesdk](https://drive.google.com/file/d/19EdGbHj7A5x7elZk8uzXk1yngUD-ubWU/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19EdGbHj7A5x7elZk8uzXk1yngUD-ubWU/view?usp=drivesdk](https://bit.ly/3P7HmmN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
