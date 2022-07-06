@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **React,NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rayden482](https://github.com/Rayden482)
+- 👨‍💻 All of my projects are available at [Rayden482](https://github.com/Rayden482)
 
 - 📫 How to reach me **parag.19b111024@abes.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19EdGbHj7A5x7elZk8uzXk1yngUD-ubWU/view?usp=drivesdk](https://bit.ly/3P7HmmN)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/19EdGbHj7A5x7elZk8uzXk1yngUD-ubWU/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
