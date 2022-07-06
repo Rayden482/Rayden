@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parag Kapoor</h1>
 <h3 align="center">A Web-Devlopment enthusiast and Problem Solver</h3>
-<p align="center"> <img src="https://i.ibb.co/QPQGkK1/430915.png" alt="Rayden482" /> </p>
+<p align="center"> <img src="https://i.ibb.co/g4z4sPs/430915-1.jpg" alt="Rayden482" /> </p>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/wRQRPa3jopcAAAAC/code-coffee.gif">
 
 
