@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Parag Kapoor</h1>
 <h3 align="center">A Web-Devlopment enthusiast and Problem Solver</h3>
-<p align="center"> <img src="https://i.ibb.co/C2V9wzT/430915.png" alt="Rayden482" /> </p>
+<!-- <p align="center"> <img src="https://i.ibb.co/C2V9wzT/430915.png" alt="Rayden482" /> </p> -->
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/wRQRPa3jopcAAAAC/code-coffee.gif">
 
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayden482" alt="Rayden482" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayden482" alt="Rayden482" /></a> </p>
 
 - 🔭 I’m currently working on [NFT-Market Place](https://github.com/Rayden482/NFT-Marketplace)
 
